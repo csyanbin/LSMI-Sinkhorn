@@ -1,5 +1,5 @@
 ## LSMI-Sinkhorn: Semi-supervised Mutual Information Estimation with Optimal Transport
-This is the implementation of our ECML/PKDD21 paper "LSMI-Sinkhorn: Semi-supervised Mutual Information Estimation with Optimal Transport" by Liu Y., Yamada M., Tsai YH., Le T., Salakhutdinov R., Yang Y.
+This is the implementation of our ECML/PKDD21 paper [LSMI-Sinkhorn: Semi-supervised Mutual Information Estimation with Optimal Transport](https://arxiv.org/pdf/1909.02373.pdf) by Liu Y., Yamada M., Tsai YH., Le T., Salakhutdinov R., Yang Y.
 
 ### Requirements
 
